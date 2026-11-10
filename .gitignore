@@ -1,0 +1,9 @@
+build/
+build-device/
+build-release/
+DerivedData/
+*.xcodeproj
+xcuserdata/
+.DS_Store
+Screenshots/
+.claude/settings.local.json
